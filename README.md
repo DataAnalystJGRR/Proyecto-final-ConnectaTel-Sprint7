@@ -38,5 +38,8 @@ Proyecto de análisis de datos de ConnectaTel para comprender el uso de servicio
 7. Reporte ejecutivo
 - Redacción de conclusiones 
 - Redacción de recomendaciones comerciales concretas y estratégicas basadas en los hallazgos obtenidos.
+
+**Cómo Ejecutar el Notebook en Google Colab**
+
   
 
