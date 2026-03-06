@@ -40,6 +40,7 @@ Proyecto de análisis de datos de ConnectaTel para comprender el uso de servicio
 - Redacción de recomendaciones comerciales concretas y estratégicas basadas en los hallazgos obtenidos.
 
 **Cómo Ejecutar el Notebook en Google Colab**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
 
   
 
