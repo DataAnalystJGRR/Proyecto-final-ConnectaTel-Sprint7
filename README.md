@@ -42,5 +42,10 @@ Proyecto de análisis de datos de ConnectaTel para comprender el uso de servicio
 **Ejecutar el Notebook en Google Colab**
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DataAnalystJGRR/Proyecto-final-ConnectaTel-Sprint7/blob/main/S7%20Version-Estudiante-Project-ConnectaTel.ipynb)
 
+O:
+
+1. Abre el archivo `.ipynb` en GitHub
+2. Haz clic en **Open in Colab**
+
   
 
