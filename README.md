@@ -51,7 +51,7 @@ O:
 
 ## Pasos para reproducir el análisis
 
-1. Abre el archivo '.ipynb'
+1. Abre el archivo `.ipynb`
 2. Ejecuta las celdas en orden
 
   
